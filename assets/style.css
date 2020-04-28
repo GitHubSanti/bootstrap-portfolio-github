@@ -1,0 +1,25 @@
+body {
+    background-color:#ffffff;
+}
+
+.navbar {
+    margin: auto;
+    width: 960px;
+    padding: 0px;
+}
+
+.navbar-brand {
+    background-color: teal;
+    padding: 20px;
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+    color: white;
+}
+
+.nav-link {
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+    color: #777777;
+}
+
+.nav-border {
+    border-bottom: 3px solid #cccccc;
+}
